@@ -1,10 +1,12 @@
+#modules os for reboot and run powershells
+
 import os
 import sys
 import pyfiglet
 import wget
-import shutil
 # https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 
+#functions needed for main functions
 
 def v_m():
     print("\t---Activating Virtual Support!...Please Wait---\n\t---Disk Management Will Run in a second do not exit---")
@@ -34,7 +36,7 @@ def update():
     print("\n")
     print("\n")
 
-
+#Main Function Run the program (first)
 def main():
     while True:
         print("\n")
