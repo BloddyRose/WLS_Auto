@@ -1,3 +1,6 @@
+#Update 
+##Update 1.1 addded Gui for those who don't like to use cmd.
+
 # WLS_Auto
 WLS Auto is tool for installing wls faster.
 #Dont forget run with admin priviligies 
