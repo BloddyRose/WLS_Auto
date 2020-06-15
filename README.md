@@ -12,3 +12,5 @@ BloddyRose
 #+-+-+-+-+-+-+-+-+-+-+
 #|B|l|o|d|d|y|R|o|s|e|
 #+-+-+-+-+-+-+-+-+-+-+
+###Update 1.1 addded Gui for those who don't like to use cmd.
+
