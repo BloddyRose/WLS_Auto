@@ -46,6 +46,7 @@ def main():
     root = tk.Tk()
     root.geometry("680x400")
     root.resizable(width=False, height=False)
+    root.title("WLS Gui")
 
     if isAdmin():
         mess = tk.messagebox.showinfo(
